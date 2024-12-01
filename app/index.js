@@ -1,6 +1,6 @@
 import express from 'express'
 
-import { PORT } from './constants/config.js'
+import { PORT } from './utils/constants/config.js'
 
 const app = express()
 
